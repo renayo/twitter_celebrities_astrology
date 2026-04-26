@@ -2,6 +2,8 @@
 
 Python replication of [Oshop & Foss (2015), JSE 29(1)](https://github.com/renayo/twitter_celebrities_astrology/blob/main/pkpadmin%2C%2BJSE%2B291%2BOshop.pdf).
 
+[Replication report.](https://github.com/renayo/twitter_celebrities_astrology/blob/main/Twitter_Kendra_Replication_Report.pdf)
+
 ## Top-level deliverables
 
 - **Twitter_Kendra_Replication_Report.docx / .pdf** — the focused replication report
