@@ -1,6 +1,6 @@
 # Twitter Kendra Replication — Outputs
 
-Python replication of [https://github.com/renayo/twitter_celebrities_astrology/blob/main/pkpadmin%2C%2BJSE%2B291%2BOshop.pdf](Oshop & Foss (2015), JSE 29(1)).
+Python replication of [Oshop & Foss (2015), JSE 29(1)](https://github.com/renayo/twitter_celebrities_astrology/blob/main/pkpadmin%2C%2BJSE%2B291%2BOshop.pdf).
 
 ## Top-level deliverables
 
